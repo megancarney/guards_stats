@@ -5,185 +5,37 @@ Statistics generated based on play-testing data up through 2023/12/09.
 
 The visualization below shows how good/bad heroes are at working together. The small circles on the edges are win/loss ratios close to 1 - that is, when those two heroes are on a team together they win about the same number of games as they lose. Bigger circles mean a better win/loss ratio.
 
-![20231209BestWorstTeammates](https://github.com/megancarney/guards_stats/assets/10427988/0d1b2af4-b70f-449b-b448-7209f3c64587)
+![20231209BestWorstTeammates](https://github.com/megancarney/guards_stats/assets/10427988/6a15ae49-3ecc-490d-8b2a-972bf9e76cfd)
 
 
 The visualization below shows the easiest/hardest opponents for specific heroes. The small circles on the edges are win/loss ratios close to 1 - that is, when those two heroes are on opposite teams, the number of wins is roughly the same as the number of losses. Bigger circles mean a better win/loss ratio for the first hero listed. For instance, Mortimer v. Brogan as a bigger circle means that when Mortimer and Brogan are on opposite teams, Mortimer has won more games than Brogan has.
 
-![20231202EasiestHardestOpponents](https://github.com/megancarney/guards_stats/assets/10427988/ecb40e7a-a379-4fae-9d37-9e3f5e9ba6e0)
+UNDER CONSTRUCTION
 
-Your work is not done! There are plenty of heroes that have never played against each other or never played on the same team. 
-
-<details>
-
-<summary>Heroes that have never played against each other</summary>
+Heroes that have never played against each other
 
 | First Hero | Second Hero |
 | --- | --- |
-|"Arien the Tidemaster"|"Dodger the Warlock"|
-|"Arien the Tidemaster"|"Hanu the Trickster"|
-|"Arien the Tidemaster"|"Ignatia the Mad"|
-|"Arien the Tidemaster"|"NebKher the Harbinger"|
-|"Arien the Tidemaster"|"Tali the Spiritcaller"|
-|"Arien the Tidemaster"|"Whisper the Outcast"|
-|"Bain the Bounty Hunter"|"NebKher the Harbinger"|
-|"Bain the Bounty Hunter"|"The Fay"|
-|"Brogan the Destroyer"|"Dodger the Warlock"|
-|"Brogan the Destroyer"|"Gydion the Archwizard"|
-|"Brogan the Destroyer"|"Hanu the Trickster"|
-|"Brogan the Destroyer"|"Trinkets the Scavenger"|
-|"Dodger the Warlock"|"Mrak the Stoneshaper"|
-|"Garrus the Gladiator"|"The Time Traveler"|
-|"Garrus the Gladiator"|"Tigerclaw the Cutpurse"|
-|"Gydion the Archwizard"|"Xargatha the Changed"|
-|"Hanu the Trickster"|"Ignatia the Mad"|
-|"Hanu the Trickster"|"NebKher the Harbinger"|
-|"Hanu the Trickster"|"Sabina the Gunslinger"|
-|"Hanu the Trickster"|"The Fay"|
-|"Hanu the Trickster"|"Tigerclaw the Cutpurse"|
-|"Ignatia the Mad"|"Tali the Spiritcaller"|
-|"Ignatia the Mad"|"The Fay"|
-|"Ignatia the Mad"|"Tigerclaw the Cutpurse"|
-|"Min the Dragonmonk"|"NebKher the Harbinger"|
-|"Min the Dragonmonk"|"Tali the Spiritcaller"|
-|"Min the Dragonmonk"|"Whisper the Outcast"|
-|"Misa the Samurai"|"Tigerclaw the Cutpurse"|
-|"Mortimer the Eternal"|"Trinkets the Scavenger"|
-|"Mrak the Stoneshaper"|"Tigerclaw the Cutpurse"|
-|"NebKher the Harbinger"|"The Fay"|
-|"NebKher the Harbinger"|"Tigerclaw the Cutpurse"|
-|"Sabina the Gunslinger"|"Swift the Sharpshooter"|
-|"Sabina the Gunslinger"|"The Fay"|
-|"Snorri the Runescribe"|"Tali the Spiritcaller"|
-|"Snorri the Runescribe"|"Tigerclaw the Cutpurse"|
-|"Snorri the Runescribe"|"Wasp the Warmaiden"|
-|"Swift the Sharpshooter"|"Tigerclaw the Cutpurse"|
-|"Tali the Spiritcaller"|"Tigerclaw the Cutpurse"|
-|"Tali the Spiritcaller"|"Wuk the Grove Guardian"|
-|"Tali the Spiritcaller"|"Xargatha the Changed"|
-|"The Fay"|"Tigerclaw the Cutpurse"|
-|"The Fay"|"Ursafar the Savage"|
-|"Tigerclaw the Cutpurse"|"Trinkets the Scavenger"|
-|"Tigerclaw the Cutpurse"|"Xargatha the Changed"|
+|Brogan the Destroyer|Hanu the Trickster|
 
-</details>
-
-<details>
-
-<summary>Heroes that have never played on the same team</summary>
+Heroes that have never played on the same team
 
 | First Hero | Second Hero |
 | --- | --- |
-|"Arien the Tidemaster"|"Brynn the Seeker"|
-|"Arien the Tidemaster"|"Hanu the Trickster"|
-|"Arien the Tidemaster"|"Ignatia the Mad"|
-|"Arien the Tidemaster"|"Mrak the Stoneshaper"|
-|"Arien the Tidemaster"|"Tali the Spiritcaller"|
-|"Arien the Tidemaster"|"Wasp the Warmaiden"|
-|"Arien the Tidemaster"|"Xargatha the Changed"|
-|"Bain the Bounty Hunter"|"Dodger the Warlock"|
-|"Bain the Bounty Hunter"|"Hanu the Trickster"|
-|"Bain the Bounty Hunter"|"Ignatia the Mad"|
-|"Bain the Bounty Hunter"|"Trinkets the Scavenger"|
-|"Brogan the Destroyer"|"Garrus the Gladiator"|
-|"Brogan the Destroyer"|"Ignatia the Mad"|
-|"Brogan the Destroyer"|"Min the Dragonmonk"|
-|"Brogan the Destroyer"|"Mortimer the Eternal"|
-|"Brogan the Destroyer"|"NebKher the Harbinger"|
-|"Brogan the Destroyer"|"Snorri the Runescribe"|
-|"Brogan the Destroyer"|"Widget and Pyro"|
-|"Brogan the Destroyer"|"Wuk the Grove Guardian"|
-|"Brogan the Destroyer"|"Xargatha the Changed"|
-|"Cutter the Airship Captain"|"Sabina the Gunslinger"|
-|"Dodger the Warlock"|"Hanu the Trickster"|
-|"Dodger the Warlock"|"Silverarrow the Pathfinder"|
-|"Dodger the Warlock"|"Trinkets the Scavenger"|
-|"Garrus the Gladiator"|"Gydion the Archwizard"|
-|"Garrus the Gladiator"|"Ignatia the Mad"|
-|"Garrus the Gladiator"|"Mrak the Stoneshaper"|
-|"Garrus the Gladiator"|"The Fay"|
-|"Garrus the Gladiator"|"Tigerclaw the Cutpurse"|
-|"Garrus the Gladiator"|"Ursafar the Savage"|
-|"Gydion the Archwizard"|"Hanu the Trickster"|
-|"Gydion the Archwizard"|"Ignatia the Mad"|
-|"Gydion the Archwizard"|"NebKher the Harbinger"|
-|"Gydion the Archwizard"|"Snorri the Runescribe"|
-|"Gydion the Archwizard"|"Swift the Sharpshooter"|
-|"Gydion the Archwizard"|"Tali the Spiritcaller"|
-|"Gydion the Archwizard"|"Trinkets the Scavenger"|
-|"Gydion the Archwizard"|"Wasp the Warmaiden"|
-|"Hanu the Trickster"|"Min the Dragonmonk"|
-|"Hanu the Trickster"|"Mrak the Stoneshaper"|
-|"Hanu the Trickster"|"Sabina the Gunslinger"|
-|"Hanu the Trickster"|"Silverarrow the Pathfinder"|
-|"Hanu the Trickster"|"Snorri the Runescribe"|
-|"Hanu the Trickster"|"Tali the Spiritcaller"|
-|"Hanu the Trickster"|"The Fay"|
-|"Hanu the Trickster"|"The Knight"|
-|"Hanu the Trickster"|"Ursafar the Savage"|
-|"Hanu the Trickster"|"Wuk the Grove Guardian"|
-|"Ignatia the Mad"|"NebKher the Harbinger"|
-|"Ignatia the Mad"|"Sabina the Gunslinger"|
-|"Ignatia the Mad"|"Snorri the Runescribe"|
-|"Ignatia the Mad"|"Swift the Sharpshooter"|
-|"Ignatia the Mad"|"Tali the Spiritcaller"|
-|"Ignatia the Mad"|"The Fay"|
-|"Ignatia the Mad"|"The Knight"|
-|"Ignatia the Mad"|"The Time Traveler"|
-|"Ignatia the Mad"|"Trinkets the Scavenger"|
-|"Ignatia the Mad"|"Wuk the Grove Guardian"|
-|"Min the Dragonmonk"|"Sabina the Gunslinger"|
-|"Min the Dragonmonk"|"Tali the Spiritcaller"|
-|"Min the Dragonmonk"|"The Time Traveler"|
-|"Misa the Samurai"|"Tali the Spiritcaller"|
-|"Misa the Samurai"|"The Time Traveler"|
-|"Misa the Samurai"|"Tigerclaw the Cutpurse"|
-|"Mortimer the Eternal"|"The Fay"|
-|"Mrak the Stoneshaper"|"Sabina the Gunslinger"|
-|"Mrak the Stoneshaper"|"The Knight"|
-|"Mrak the Stoneshaper"|"Trinkets the Scavenger"|
-|"Mrak the Stoneshaper"|"Ursafar the Savage"|
-|"Mrak the Stoneshaper"|"Xargatha the Changed"|
-|"NebKher the Harbinger"|"Snorri the Runescribe"|
-|"NebKher the Harbinger"|"Tali the Spiritcaller"|
-|"NebKher the Harbinger"|"The Fay"|
-|"NebKher the Harbinger"|"Tigerclaw the Cutpurse"|
-|"NebKher the Harbinger"|"Wasp the Warmaiden"|
-|"NebKher the Harbinger"|"Whisper the Outcast"|
-|"Sabina the Gunslinger"|"Swift the Sharpshooter"|
-|"Sabina the Gunslinger"|"The Knight"|
-|"Sabina the Gunslinger"|"The Time Traveler"|
-|"Sabina the Gunslinger"|"Trinkets the Scavenger"|
-|"Sabina the Gunslinger"|"Whisper the Outcast"|
-|"Sabina the Gunslinger"|"Wuk the Grove Guardian"|
-|"Silverarrow the Pathfinder"|"Tigerclaw the Cutpurse"|
-|"Silverarrow the Pathfinder"|"Trinkets the Scavenger"|
-|"Snorri the Runescribe"|"Ursafar the Savage"|
-|"Snorri the Runescribe"|"Whisper the Outcast"|
-|"Snorri the Runescribe"|"Widget and Pyro"|
-|"Snorri the Runescribe"|"Xargatha the Changed"|
-|"Swift the Sharpshooter"|"Trinkets the Scavenger"|
-|"Swift the Sharpshooter"|"Ursafar the Savage"|
-|"Takahide the Warlord"|"The Time Traveler"|
-|"Tali the Spiritcaller"|"The Fay"|
-|"Tali the Spiritcaller"|"Tigerclaw the Cutpurse"|
-|"Tali the Spiritcaller"|"Trinkets the Scavenger"|
-|"The Fay"|"The Time Traveler"|
-|"The Fay"|"Tigerclaw the Cutpurse"|
-|"The Fay"|"Whisper the Outcast"|
-|"The Knight"|"Xargatha the Changed"|
-|"The Time Traveler"|"Tigerclaw the Cutpurse"|
-|"The Time Traveler"|"Ursafar the Savage"|
-|"The Time Traveler"|"Whisper the Outcast"|
-|"The Time Traveler"|"Xargatha the Changed"|
-|"Tigerclaw the Cutpurse"|"Ursafar the Savage"|
-|"Tigerclaw the Cutpurse"|"Wasp the Warmaiden"|
-|"Tigerclaw the Cutpurse"|"Whisper the Outcast"|
-|"Tigerclaw the Cutpurse"|"Widget and Pyro"|
-|"Tigerclaw the Cutpurse"|"Wuk the Grove Guardian"|
-|"Trinkets the Scavenger"|"Whisper the Outcast"|
-|"Ursafar the Savage"|"Xargatha the Changed"|
-|"Whisper the Outcast"|"Xargatha the Changed"|
-
-
-</details>
+|Brogan the Destroyer|Garrus the Gladiator|
+|Brogan the Destroyer|Ignatia the Mad|
+|Brogan the Destroyer|Snorri the Runescribe|
+|Dodger the Warlock|Dodger the Warlock|
+|Garrus the Gladiator|Tigerclaw the Cutpurse|
+|Gydion the Archwizard|Hanu the Trickster|
+|Gydion the Archwizard|Ignatia the Mad|
+|Hanu the Trickster|The Fay|
+|Hanu the Trickster|The Knight|
+|Ignatia the Mad|Wuk the Grove Guardian|
+|Mortimer the Eternal|Mortimer the Eternal|
+|NebKher the Harbinger|Snorri the Runescribe|
+|Swift the Sharpshooter|Swift the Sharpshooter|
+|Tali the Spiritcaller|Tigerclaw the Cutpurse|
+|The Fay|Tigerclaw the Cutpurse|
+|Tigerclaw the Cutpurse|Widget and Pyro|
+|Trinkets the Scavenger|Trinkets the Scavenger|
