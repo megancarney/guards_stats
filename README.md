@@ -10,7 +10,8 @@ The visualization below shows how good/bad heroes are at working together. The s
 
 The visualization below shows the easiest/hardest opponents for specific heroes. The small circles on the edges are win/loss ratios close to 1 - that is, when those two heroes are on opposite teams, the number of wins is roughly the same as the number of losses. Bigger circles mean a better win/loss ratio for the first hero listed. For instance, Mortimer v. Brogan as a bigger circle means that when Mortimer and Brogan are on opposite teams, Mortimer has won more games than Brogan has.
 
-UNDER CONSTRUCTION
+![20231209EasiestHardestOpponents](https://github.com/megancarney/guards_stats/assets/10427988/2c121aff-f734-47a9-8521-3c2eaa85a0ea)
+
 
 Heroes that have never played against each other
 
