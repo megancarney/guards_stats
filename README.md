@@ -1,15 +1,15 @@
 # guards_stats
 A place to keep statistics for Guards of Atlantis 2
 
-Statistics generated based on play-testing data up through 2023/12/23.
+Statistics generated based on play-testing data up through 2023/12/30.
 
 The visualization below shows how good/bad heroes are at working together. The small circles on the edges are win/loss ratios close to 1 - that is, when those two heroes are on a team together they win about the same number of games as they lose. Bigger circles mean a better win/loss ratio.
 
-![20231223BestWorstTeammates](https://github.com/megancarney/guards_stats/assets/10427988/46f69162-6e9d-42a1-be60-b03559fa7981)
+![20231230BestWorstTeammates](https://github.com/megancarney/guards_stats/assets/10427988/f5a773ec-59df-4040-aa2d-37b17daacf2a)
 
 The visualization below shows the easiest/hardest opponents for specific heroes. The small circles on the edges are win/loss ratios close to 1 - that is, when those two heroes are on opposite teams, the number of wins is roughly the same as the number of losses. Bigger circles mean a better win/loss ratio for the first hero listed. For instance, Mortimer v. Brogan as a bigger circle means that when Mortimer and Brogan are on opposite teams, Mortimer has won more games than Brogan has.
 
-![20231223EasiestHardestOpponents](https://github.com/megancarney/guards_stats/assets/10427988/49a6c493-4d35-47e6-9fc3-379aeab13f3d)
+![20231230EasiestHardestOpponents](https://github.com/megancarney/guards_stats/assets/10427988/d251f940-d837-402b-8200-c9841b1d0c4c)
 
 Heroes that have never played against each other
 
